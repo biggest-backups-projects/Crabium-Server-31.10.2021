@@ -1,0 +1,6 @@
+name: CrabikSuperGrief
+version: ${project.version}
+main: naulbimix.crabikstudio.crabiksupergrief.Main
+authors: [NaulbiMIX]
+description: Уникальный плагин для сборки SuperGrief от CrabikStudio
+website: vk.com/crabikstudio

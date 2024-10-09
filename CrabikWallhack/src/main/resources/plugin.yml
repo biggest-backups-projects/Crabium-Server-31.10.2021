@@ -1,0 +1,8 @@
+name: CrabikWallhack
+version: 1.0
+main: ru.naulbimix.crabikwallhack.Main
+author: NaulbiMIX
+description: Типо норм самопис
+website: vk.com/crabikstudio
+commands:
+  wh:

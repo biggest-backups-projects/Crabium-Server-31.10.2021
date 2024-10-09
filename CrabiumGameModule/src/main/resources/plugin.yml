@@ -1,0 +1,6 @@
+name: CrabiumGameModule
+version: ${project.version}
+main: ru.naulbimix.crabiumgamemodule.Main
+authors: [NaulbiMIX]
+description: Плагин для сервера Crabium
+website: vk.com/evildonat
